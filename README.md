@@ -9,22 +9,10 @@ The Wheel Visualizer is a Python application that combines computer vision, arti
 - Interactive Wheel Visualization: The virtual wheel reacts dynamically to the user's hand movements. As the user moves their hands left or right, the wheel visually rotates in the corresponding direction and angle.
 
 ## Demo Video
-Wheel Visualizer Demo
+https://github.com/OmPatelGithub/computer-vision-game-controller/assets/97410779/c142bf43-cfd6-4230-90eb-7def26fa1195
 
-## Screenshots
-Screenshot 1
-Screenshot 2
 
-How to Use
-Installation:
-
-Clone this repository to your local machine.
-Install the required Python libraries using pip install -r requirements.txt.
-Run the Application:
-
-Execute the main Python script: python wheel_visualizer.py.
-Interaction:
-
+## Usage Instructions
 Stand in front of your camera to allow the application to track your hand gestures.
 Move your hands left or right to see the virtual wheel rotate in the corresponding direction and angle.
 The application will also display the angle and radius information on the screen.
@@ -34,10 +22,12 @@ OpenCV
 Pygame
 Mediapipe
 Keyboard
-Contributions
+
+
+## Contributions
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, please feel free to submit a pull request.
 
-Acknowledgements
+## Acknowledgements
 This project utilizes the power of the Mediapipe library, developed by Google, for hand gesture recognition.
 The Pygame library is used for rendering the graphics and creating an interactive display.
 License
